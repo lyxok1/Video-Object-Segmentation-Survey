@@ -2,9 +2,9 @@
 
 ## Table of content
 
-- [Dataset](## Dataset)
-- [Papers](## Papers)
-- [Codebase](## Codebase)
+- [Dataset](#Dataset)
+- [Papers](#Papers)
+- [Codebase](#Codebase)
 
 ## Dataset
 
@@ -17,7 +17,7 @@
 |      FBMS      | [https://lmb.informatik.uni-freiburg.de/resources/datasets/](https://lmb.informatik.uni-freiburg.de/resources/datasets/) |   Densely annotated datasets   |
 |  Youtube-VOS   |     [https://youtube-vos.org](https://youtube-vos.org/)      | Large scale, sparse annotation |
 |    SegTrack    | [https://web.engr.oregonstate.edu/~lif/SegTrack2/dataset.html](https://web.engr.oregonstate.edu/~lif/SegTrack2/dataset.html) |  Full pixel-level annotation   |
-|    TAO-VOS     | [www.vision. rwth-aachen.de/page/taovos](www.vision. rwth-aachen.de/page/taovos) |   pseudo labels are included   |
+|    TAO-VOS     | [www.vision.rwth-aachen.de/page/taovos](www.vision.rwth-aachen.de/page/taovos) |   pseudo labels are included   |
 
 **Additional datasets used for data augmentation or pretraining**
 
