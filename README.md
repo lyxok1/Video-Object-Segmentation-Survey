@@ -67,7 +67,7 @@ RVOS: End-To-End Recurrent Network for Video Object Segmentation. [[Paper](https
 
 BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames. CVPR 2019 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Griffin_BubbleNets_Learning_to_Select_the_Guidance_Frame_in_Video_Object_CVPR_2019_paper.pdf)] [[Code](https://github.com/griffbr/BubbleNets)]
 
-FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation. CVPR 2019 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Voigtlaender_FEELVOS_Fast_End-To-End_Embedding_Learning_for_Video_Object_Segmentation_CVPR_2019_paper.pdf)] [[TensorFlow Code](https://github.com/tensorflow/ models/tree/master/research/feelvos)]
+FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation. CVPR 2019 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Voigtlaender_FEELVOS_Fast_End-To-End_Embedding_Learning_for_Video_Object_Segmentation_CVPR_2019_paper.pdf)] [[TensorFlow Code](https://github.com/tensorflow/models/tree/master/research/feelvos)]
 
 DMM-Net: Differentiable Mask-Matching Network for Video Object Segmentation. ICCV 2019 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DMM-Net_Differentiable_Mask-Matching_Network_for_Video_Object_Segmentation_ICCV_2019_paper.pdf)] [[Pytorch Code](https://github.com/ZENGXH/DMM_Net)] 
 
@@ -81,7 +81,7 @@ Video Object Segmentation using Space-Time Memory Networks. ICCV 2019 [[Paper](h
 
 State-Aware Tracker for Real-Time Video Object Segmentation. CVPR 2020 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_State-Aware_Tracker_for_Real-Time_Video_Object_Segmentation_CVPR_2020_paper.pdf)] [[Pytorch Code](https://github.com/MegviiDetection/video_analyst)]
 
-A Transductive Approach for Video Object Segmentation. CVPR 2020 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_A_Transductive_Approach_for_Video_Object_Segmentation_CVPR_2020_paper.pdf)] [[Pytorch Code](https://github.com/ microsoft/transductive-vos.pytorch)]
+A Transductive Approach for Video Object Segmentation. CVPR 2020 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_A_Transductive_Approach_for_Video_Object_Segmentation_CVPR_2020_paper.pdf)] [[Pytorch Code](https://github.com/microsoft/transductive-vos.pytorch)]
 
 Learning Fast and Robust Target Models for Video Object Segmentation. CVPR 2020 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Robinson_Learning_Fast_and_Robust_Target_Models_for_Video_Object_Segmentation_CVPR_2020_paper.pdf)] [[Pytorch Code](https://github.com/andr345/frtm-vos)]
 
@@ -107,7 +107,7 @@ Video Segmentation via Object Flow. CVPR 2016 [[Paper](https://faculty.ucmerced.
 
 Learning Unsupervised Video Object Segmentation through Visual Attention. CVPR 2019 [[Paper](https://www.researchgate.net/publication/332751903_Learning_Unsupervised_Video_Object_Segmentation_through_Visual_Attention)] [[Journal](https://www.researchgate.net/publication/338528322_Paying_Attention_to_Video_Object_Pattern_Understanding)] [[CAFFE Code](https://github.com/wenguanwang/AGS)]
 
-Zero-shot Video Object Segmentation via Attentive Graph Neural Networks.  ICCV 2019 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Zero-Shot_Video_Object_Segmentation_via_Attentive_Graph_Neural_Networks_ICCV_2019_paper.pdf)] [[Pytorch Code](Zero-shot Video Object Segmentation via Attentive Graph Neural Networks.  ICCV 2019)]
+Zero-shot Video Object Segmentation via Attentive Graph Neural Networks.  ICCV 2019 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Zero-Shot_Video_Object_Segmentation_via_Attentive_Graph_Neural_Networks_ICCV_2019_paper.pdf)] [[Pytorch Code](https://github.com/carrierlxk/AGNN)]
 
 Anchor Diffusion for Unsupervised Video Object Segmentation. ICCV 2019 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Anchor_Diffusion_for_Unsupervised_Video_Object_Segmentation_ICCV_2019_paper.html)] [[Pytorch Code](https://github.com/yz93/anchor-diff-VOS)]
 
